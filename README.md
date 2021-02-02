@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/7152507/88428177-f61d9880-cdb9-11ea-9f32-e2f6e0280304.png"/>
 
-Soy Software Engineer 😄, especializado en desarrollo de aplicaciones móviles para Android. Me encanta desarrollar para plataformas móviles 
+Soy Software Engineer 😄 actualmente trabajando en Globant para Autodesk, especializado en desarrollo de aplicaciones móviles para Android. Me encanta desarrollar para plataformas móviles 
 es todo un reto realizar software y diseños que sean interesantes. 
 
 También tengo conocimiento en Inteligencia Artificial especialmente en las áreas de Computer Vision. 
