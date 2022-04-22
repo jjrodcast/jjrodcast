@@ -1,18 +1,16 @@
-### Hola, Soy Jorge 👨‍💻  (🇵🇪   🇺🇸  🇧🇷)
+### Helo, I'm Jorge 👨‍💻  (🇵🇪   🇺🇸  🇧🇷)
 
 <img src="https://user-images.githubusercontent.com/7152507/88428177-f61d9880-cdb9-11ea-9f32-e2f6e0280304.png"/>
 
-Soy Software Engineer 😄 actualmente trabajando en Globant para Autodesk, especializado en desarrollo de aplicaciones móviles para Android. Me encanta desarrollar para plataformas móviles 
-es todo un reto realizar software y diseños que sean interesantes. 
+I'm Software Engineer 😄 currently working at Globant for Autodesk with specialization in mobile development for Android. I love mobile development in any platform because of lot of interesting challenges.
 
-También tengo conocimiento en Inteligencia Artificial especialmente en las áreas de Computer Vision. 
+I also have knowledge in Artificial Intelligence with specialization in Deep Learning for Image Processing.
 
-Tengo conocimiento en algunos lenguajes de programación. 
+I know many different programming languages.
 
-A veces para divertime me encanta realizar problemas 
-de programación competitiva en plataformas como HackerRank, LeetCode, URI, etc.
+Sometimes I like to solve programming problems for competitive programming in HackeRank, LeetCode, URI, UVA Online, etc. During my collegue time I was a ACM ICP contestant for a peruvian team.
 
-Ante cualquier duda o consulta que quieran resolver en temas de Android o Inteligencia Artificial pueden escribirme 📫
+If you have any question related to Android or Artificial Intelligence you can send me a message to this email: `jjorge.rc93@gmail.com` 📫
 
 
 <!--
