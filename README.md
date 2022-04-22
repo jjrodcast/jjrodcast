@@ -8,7 +8,7 @@ I also have knowledge in Artificial Intelligence with specialization in Deep Lea
 
 I know many different programming languages.
 
-Sometimes I like to solve programming problems for competitive programming in HackeRank, LeetCode, URI, UVA Online, etc. During my collegue time I was a ACM ICP contestant for a peruvian team.
+Sometimes I like to solve programming problems for competitive programming in HackeRank, LeetCode, URI, UVA Online, etc. During my collegue time I was a ACM ICPC contestant for a peruvian team.
 
 If you have any question related to Android or Artificial Intelligence you can send me a message to this email: `jjorge.rc93@gmail.com` 📫
 
