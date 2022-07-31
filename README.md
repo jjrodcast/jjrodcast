@@ -15,9 +15,7 @@
 
 - 📫 Contact **jjorge.rc93@gmail.com**
 
-- 📄 Profesional Information [https://www.linkedin.com/in/jorge-rodr%C3%ADguez-castillo/](https://www.linkedin.com/in/jorge-rodr%C3%ADguez-castillo/)
-
-- ⚡ Fun **https://twitter.com/jjrodcast**
+- ⚡ Fun [https://twitter.com/jjrodcast](https://twitter.com/jjrodcast)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
