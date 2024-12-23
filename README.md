@@ -7,8 +7,6 @@
 
 - 🔭 Android Developer [Autodesk](https://www.autodesk.com/)
 
-- 👨‍💻 Personal Blog [https://jorgerodriguezc.com/](https://jorgerodriguezc.com/)
-
 - 📝 Articles [https://medium.com/@jjorgerc](https://medium.com/@jjorgerc)
 
 - 💬 Any Question? **android, mobile, machine learning, deep learning**
